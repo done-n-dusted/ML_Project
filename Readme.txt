@@ -13,8 +13,4 @@ Libraries Needed to run the program;
 -> textblob
 -> imblearn
 
-The links for the data sets, model pickle files and pre processed data for testing are:
-
-https://drive.google.com/open?id=1QzAt8tZsE5swUlDNmuTQc2zy_pMdCYcA
-
 Read the report for more details
